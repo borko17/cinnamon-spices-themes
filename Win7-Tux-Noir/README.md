@@ -2,7 +2,7 @@
 
 This theme is based on the Windows 7 theme by 
 [B00merang Project](https://github.com/B00merang-Project/Windows-7) 
-and incorporates elements from the Mint-L-Darker-Blue theme included in Linux Mint, licensed under GPLv3. Significant modifications have been made by [Borko117](https://github.com/borko17/Win7-Tux-Noir).
+and incorporates elements from the Mint-L-Darker-Blue theme included in Linux Mint, licensed under GPLv3. Significant modifications have been made by [Borko17](https://github.com/borko17/Win7-Tux-Noir).
 
 ## Modifications
 - Description of significant changes you made.
